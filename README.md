@@ -10,9 +10,9 @@ This project is an ESP32-based cruise control system for vehicles. It integrates
 - **TFT Display**: Real-time display of speed, target speed, and other sensor data.
 
 ## Demo
-![alt text](image.png)
+![demo](https://successdt.github.io/images/IMG_20210926_160237.jpg)
 
-![[alt text](https://www.youtube.com/watch?v=7pOyFUubQzo)](https://www.youtube.com/watch?v=7pOyFUubQzo)
+[https://www.youtube.com/watch?v=7pOyFUubQzo](https://www.youtube.com/watch?v=7pOyFUubQzo)
 
 
 ## Getting Started
@@ -26,7 +26,7 @@ This project is an ESP32-based cruise control system for vehicles. It integrates
   - ELM327 Bluetooth OBD-II adapter
   - Buttons for control (SET, RES, ON)
   - PCB Schematic diagram
-  ![alt text](Schematic_Cruise-Control-v2_2024-11-15.png)
+  ![Schematic](https://successdt.github.io/images/Schematic_Cruise-Control-v2_2024-11-15.png)
 - **Software**:
   - Arduino IDE
   - ESP32 Board package for Arduino IDE
